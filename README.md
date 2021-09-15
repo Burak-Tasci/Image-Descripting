@@ -20,6 +20,7 @@ At first step, we got the index file. Now you're ready to make a search. Decide 
 
 Note: You can use --index/--query/--results instead of -i/-d/-r.
 <font color="orange">Warning:</font><font color="black"> Results directory cleans itself every time search.py runs.</font>
+
 A search example:
 **Query Image:**
 ![queryimage](https://i.hizliresim.com/hhtyu20.jpg)
